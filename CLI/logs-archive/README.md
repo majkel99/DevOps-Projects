@@ -11,7 +11,7 @@ A simple CLI tool for archiving log files on Unix/Linux systems. Compresses logs
 ```bash
 chmod +x log-archive
 sudo mv log-archive /usr/local/bin/
-
+```
 ## Usage
 log-archive <log-directory>
 
