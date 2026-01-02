@@ -13,7 +13,7 @@ chmod +x log-archive
 sudo mv log-archive /usr/local/bin/
 ```
 ## Usage
-log-archive <log-directory>
+Run the script with the log directory as argument.
 
 ## Example:
 log-archive /var/log
